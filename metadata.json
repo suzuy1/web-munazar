@@ -1,0 +1,6 @@
+{
+  "name": "Coffi Premium",
+  "description": "Landing page premium cafe Coffi Premium dengan menu kopi berkualitas, pemesanan kopi interaktif, dan galeri foto kopi estetik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
